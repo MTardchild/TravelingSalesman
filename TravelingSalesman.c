@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <stdbool.h>
 #include <time.h>
-#include "main.h"
+#include "TravelingSalesman.h"
 
 #define PLACES 5
 
